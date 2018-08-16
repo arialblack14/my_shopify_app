@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is just a simple app that uses the `shopify_app` gem to connect to Shopify.
 
-Things you may want to cover:
+Use `ngrok` or `localtunnel` gem to create a secure tunnel from the public Internet to your local machine.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Disclaimer: Following this 5 min tutorial
+https://www.youtube.com/watch?v=yGxeoAHlQOg
